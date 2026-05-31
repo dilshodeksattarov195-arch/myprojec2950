@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruetch",
+        "uuid": 10009350,
+        "checksum": "4gw594"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
